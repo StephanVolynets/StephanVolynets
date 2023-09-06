@@ -49,9 +49,9 @@
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
 </p>
 
-- Skilled in the **MERN** stack.
+- Studying in the **MERN** stack.
 - Adept at focusing on user-centric design.
-- Building interactive web applications.
+- Building interactive web applications with react.js.
 
 ## 📚 What's Next?
 
