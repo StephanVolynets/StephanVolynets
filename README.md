@@ -1,14 +1,20 @@
 # Hello, World! 👋
+[![An image of @stephanvolynets's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/stephanvolynets)](https://holopin.io/@stephanvolynets)
+
+<div align="center">
+  
+  ### 🎓 **_I'm a passionate learner and developer from Cornell University 24'_**. 🚀
+### 📘 **Currently, I'm a Junior Information Science Major specializing in Data Science.** 📊
+
 
 <p align="center">
-  <img src="https://media4.giphy.com/media/RkESjJDPWTpdQd0Jbz/giphy.gif?cid=ecf05e47jbzdgs4a4k5xj8avivfyn7x6v0tr84oc14c1d76o&ep=v1_gifs_search&rid=giphy.gif&ct=g" width='40%'>
+  <img src="https://media4.giphy.com/media/RkESjJDPWTpdQd0Jbz/giphy.gif?cid=ecf05e47jbzdgs4a4k5xj8avivfyn7x6v0tr84oc14c1d76o&ep=v1_gifs_search&rid=giphy.gif&ct=g" width='50%'>
 </p> 
 
-### 🎓 **_I'm a passionate learner and developer from Cornell University 24'_**. 🚀
-### 📘 **Currently, I'm a Junior Information Science Major specializing in Data Science.** 📊
----
 
-### 🔍 **Here's a snapshot of my journey so far:** 
+## 🔍 **Here's a snapshot of my journey so far:** 
+</div>
+
 
 ## 📊 Data Science 
 <p align="center"> 
@@ -20,6 +26,8 @@
 - Proficient in statistical programming, as well as object oriented programming and design in Python. 
 - Experienced in both univariate and multivariate analyses across diverse datasets.
 - Specialized in **machine learning**, **data visualization**, and **data analysis** in R & Python.
+
+
 
 ## 📈 Advanced Data Analysis & Querying
 
@@ -35,7 +43,9 @@
 - **SQL Proficiency**: Experienced in querying large datasets, optimizing database queries, and designing efficient database schemas.
 - **Python Packages**: Proficient in utilizing data science packages like `pandas`, `numpy`, and `duckdb` for data analysis, transformation, and visualization. Always eager to explore and integrate more tools to enhance data processing capabilities.
 
-## 🌐 Web Development
+
+
+## :atom: Web Development
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -54,3 +64,4 @@
 ## 🌐 Blockchain Enthusiast
 
 I've always been deeply passionate about the transformative potential of blockchain technology. My journey began as an early adopter of ![Bitcoin](https://img.shields.io/badge/Bitcoin-000000?style=for-the-badge&logo=bitcoin&logoColor=white) ![Solana](https://img.shields.io/badge/Solana-000000?style=for-the-badge&logo=solana&logoColor=white) and ![Monero](https://img.shields.io/badge/monero-FF6600?logo=monero&logoColor=white). Over the years, I've expanded my digital asset portfolio and have become an avid Community QA tester, always on the lookout for promising projects and innovations in the space. My belief in the decentralized future has allowed me to participate in Pools and become a liquidity provider for positions in AMM pools and yield farming procedures. 
+
