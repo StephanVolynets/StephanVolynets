@@ -4,8 +4,12 @@
   <img src="https://media4.giphy.com/media/RkESjJDPWTpdQd0Jbz/giphy.gif?cid=ecf05e47jbzdgs4a4k5xj8avivfyn7x6v0tr84oc14c1d76o&ep=v1_gifs_search&rid=giphy.gif&ct=g" width='40%'>
 </p> 
 
-### 🎓 **_I'm a passionate data science student and developer from Cornell University 24'_**. 🚀
-🔍 **Here's a snapshot of my journey so far:**
+### 🎓 **_I'm a passionate learner and developer from Cornell University 24'_**. 🚀
+### 📘 **Currently, I'm a Junior Information Science Major specializing in Data Science.** 📊
+
+<br>
+
+#### 🔍 **Here's a snapshot of my journey so far:** 
 
 ## 📊 Data Science 
 
