@@ -6,10 +6,10 @@
 
 ### 🎓 **_I'm a passionate learner and developer from Cornell University 24'_**. 🚀
 ### 📘 **Currently, I'm a Junior Information Science Major specializing in Data Science.** 📊
+---
 
-<br>
 
-#### 🔍 **Here's a snapshot of my journey so far:** 
+### 🔍 **Here's a snapshot of my journey so far:** 
 
 ## 📊 Data Science 
 
