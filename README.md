@@ -54,8 +54,11 @@
 </p>
 
 - Studying in the **MERN** stack.
+- Creating interactive Single-Page-Applications with Client-Side-Rendering using client-side-rendering to build dynamic and responsive user interfaces that offer seamless user experiences.
+- Capability to design robust server-side solutions, manage API endpoints, and handle asynchronous operations efficiently. (Gaining proficiency with Express.js and Node.js)
+- Building foundation in NoSQL database management, ensuring data integrity and scalability.
 - Adept at focusing on user-centric design.
-- Building interactive web applications with react.js.
+
 
 
 
