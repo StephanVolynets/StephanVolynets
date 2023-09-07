@@ -66,7 +66,7 @@
 
 # 🌐 Blockchain Cognoscente
 
-I've always been deeply passionate about the transformative potential of blockchain technology. My journey began as an early adopter of ![Bitcoin](https://img.shields.io/badge/Bitcoin-000000?style=for-the-badge&logo=bitcoin&logoColor=white) ![Solana](https://img.shields.io/badge/Solana-000000?style=for-the-badge&logo=solana&logoColor=white) and ![Monero](https://img.shields.io/badge/monero-FF6600?logo=monero&logoColor=white). Over the years, I've expanded my digital asset portfolio and have become an avid Community QA tester, always on the lookout for promising projects and innovations in the space. My belief in the decentralized future has allowed me to participate in Pools and become a liquidity provider for positions in AMM pools and yield farming procedures. 
+I've always been deeply passionate about the transformative potential of blockchain technology. My journey began as an early adopter of ![Bitcoin](https://img.shields.io/badge/Bitcoin-000000?style=for-the-badge&logo=bitcoin&logoColor=white) ![Solana](https://img.shields.io/badge/Solana-000000?style=for-the-badge&logo=solana&logoColor=white) and ![Monero](https://img.shields.io/badge/monero-FF6600?logo=monero&logoColor=white). Over the years, I've expanded my digital asset portfolio and have become an avid Community QA tester, always on the lookout for promising projects and innovations in the space. My belief in the decentralized future has allowed me to participate in LP’s as one of the first providing liquidity on both sides to the hadeswap Automated Market Maker (AMM) for “ABC(abracadabra) NFT on the Solana Ecosystem”
 
 <br>
 
