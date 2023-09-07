@@ -50,7 +50,9 @@
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/node.js-6DA55F?logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/git-%23F05033.svg?logo=git&logoColor=white" />
+  
 </p>
 
 - Studying in the **MERN** stack.
