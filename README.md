@@ -8,7 +8,7 @@
 
 
 
-### <img src="https://media.tenor.com/lNtmoshuUI8AAAAi/bahroo-hacker.gif" width="50"> A little more about me...  
+#### <img src="https://media.tenor.com/lNtmoshuUI8AAAAi/bahroo-hacker.gif" width="50"> A little more about me...  
 
 ```javascript
 const ME = {
