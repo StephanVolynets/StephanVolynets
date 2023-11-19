@@ -15,7 +15,7 @@ const ME = {
   pronouns: "he" | "him",
   code: [Python, R, HTML, CSS, JavaScript, SASS],
   tools: [Pandas|Scikit|SciPy|DuckDB|GGPLOT2, React, Express, Node, MongoDB],
-  architecture: ["RESTful", "Object-Oriented", "Design System Pattern"],
+  architecture: ["RESTful", "Object-Oriented", "Top-Down"],
   techCommunities: {
                         member: "Cornell Blockchain Analysis",
                         mentee: "Looking!"
