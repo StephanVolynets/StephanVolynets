@@ -8,18 +8,18 @@
 
 
 
-### <img src="https://media.tenor.com/lNtmoshuUI8AAAAi/bahroo-hacker.gif" width="50"> A little more about me...  
+### <img src="https://media.tenor.com/lNtmoshuUI8AAAAi/bahroo-hacker.gif" width="50">     A little more about me...  
 
 ```javascript
 const ME = {
   pronouns: "he" | "him",
-  code: [Python, Java,  PHP, HTML, CSS, JavaScript/JSX, SASS],
+  code: [Python, Java, PHP, HTML, CSS, JavaScript/JSX, SASS],
   tools: [Pandas|TensowFlow|SciPy|React, Express, Node, MongoDB],
   architecture: ["RESTful", "Object-Oriented", "Top-Down"],
   techCommunities: {
                         member: "Cornell Blockchain Consultant",
                         blockchain: "BTC Swing Trader est ~ 2018",
-                        mentor: "Looking :)"
+                        mentor: "Searching 4 :)"
                       },
  currentChallenge: "Build a cash app clone using Rust backend and React frontend."
 }
