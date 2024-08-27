@@ -17,10 +17,10 @@ const ME = {
   tools: [Pandas|TensowFlow|SciPy|React, Express, Node, MongoDB],
   architecture: ["RESTful", "Object-Oriented", "Top-Down"],
   techCommunities: {
-                        major: "Information & Data Science"
+                        major: "Information & Data Science",
                         member: "Cornell Blockchain Consultant",
                         blockchain: "BTC Swing Trader est ~ 2018",
-                        mentor: "Searching 4 :)"
+                        mentor: "Searching 4 :)",
                       },
  currentChallenge: "Build a cash app clone using Rust backend and React frontend."
 }
