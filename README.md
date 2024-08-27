@@ -13,7 +13,7 @@
 ```javascript
 const ME = {
   pronouns: "he" | "him",
-  code: [Python, Java, PHP, HTML, CSS, JavaScript/JSX, SASS],
+  code: [Python, Java, PHP, HTML, SASS, SQL, JavaScript/JSX],
   tools: [Pandas|TensowFlow|SciPy|React, Express, Node, MongoDB],
   architecture: ["RESTful", "Object-Oriented", "Top-Down"],
   techCommunities: {
