@@ -25,6 +25,6 @@ const ME = {
  currentChallenge: "Build a cash app clone using Rust backend and React frontend."
 }
 ```
-<em><b>I love meeting people who share my passions!</b> <b>Lets connect!</b> :)</em> 
+<em><b>I love meeting people who share my passions!</b> <b>Lets connect!</b></em> 
 
 ---
