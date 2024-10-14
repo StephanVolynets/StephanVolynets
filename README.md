@@ -13,7 +13,7 @@
 ```javascript
 const ME = {
   pronouns: "he" | "him",
-  code: [Python, Java, PHP, HTML, SASS, SQL, JavaScript/JSX],
+  code: [Python, Java, PHP, SQL, JavaScript/JSX],
   tools: [Pandas|TensowFlow|SciPy|React, Express, Node, MongoDB],
   architecture: ["RESTful", "Object-Oriented", "Top-Down"],
   techCommunities: {
@@ -22,7 +22,7 @@ const ME = {
                         blockchain: "BTC Swing Trader est ~ 2018",
                         mentor: "Searching 4 :)",
                       },
- currentChallenge: "Build a cash app clone using Rust backend and React frontend."
+ currentChallenge: "Build a cash app clone on a Rust backend."
 }
 ```
 <em><b>I love meeting people who share my passions!</b> <b>Lets connect!</b></em> 
