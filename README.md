@@ -22,7 +22,7 @@ const ME = {
                         blockchain: "BTC Swing Trader est ~ 2018",
                         mentor: "Searching 4 :)",
                       },
- currentChallenge: "Build a cash app clone on a Rust backend."
+ currentChallenge: "Building out the swap project from Solanas 2024 Bootcamp showcase"
 }
 ```
 <em><b>I love meeting people who share my passions!</b> <b>Lets connect!</b></em> 
