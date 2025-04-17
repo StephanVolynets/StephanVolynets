@@ -3,6 +3,7 @@
 <p><em>Computer and Information Science @ <a href="https://cis.cornell.edu">Cornell University </a> <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Member @ <a href="https://www.cornellblockchain.org">Cornell Blockchain </a> 
 </em></p>  
 
+
 [![Twitter: Stephan Volynets](https://img.shields.io/twitter/follow/mhsavage55?style=social)](https://twitter.com/mhsavage55)
 [![Linkedin: StephanVolynets](https://img.shields.io/badge/stephan-volynets-blue?style=rounded-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/stephan-volynets/)](https://linkedin.com/in/stephan-volynets)
 
@@ -11,19 +12,15 @@
 ### <img src="https://media.tenor.com/lNtmoshuUI8AAAAi/bahroo-hacker.gif" width="50">     A little more about me...  
 
 ```javascript
-const ME = {
-  pronouns: "he" | "him",
-  code: [Python, Java, PHP, SQL, JavaScript/JSX],
-  tools: [Pandas|TensowFlow|SciPy|React, Express, Node, MongoDB],
-  architecture: ["RESTful", "Object-Oriented", "Top-Down"],
-  techCommunities: {
-                        major: "Information & Data Science",
-                        member: "Cornell Blockchain Consultant",
-                        blockchain: "BTC Swing Trader est ~ 2018",
-                        mentor: "Searching 4 :)",
-                      },
- currentChallenge: "Cross Platform Dev with Rust and Dioxus."
-}
+const me = {
+  pronouns: "he/him",
+  languages: ["Python", "TypeScript", "C", "Rust", "SQL"],
+  frameworks: ["React", "Next.js", "D3.js", "Express", "Nest.js"],
+  databases: ["PostgreSQL", "MongoDB", "Supabase"],
+  blockchain: ["Solana (Anchor)", "Ethereum (Web3.js)", "Stellar"],
+  interests: ["Systems Programming", "Decentralized Finance", "Data Visualization"],
+  currentlyLearning: "Cross Platform Rust with Dioxus"
+};
 ```
 <em><b>I love meeting people who share my passions!</b> <b>Lets connect!</b></em> 
 
