@@ -1,6 +1,5 @@
 <h1 align="left">
-  Hi, I'm 
-  <img src="https://img.shields.io/badge/Stephan!-A6192E?style=for-the-badge&logoColor=white&labelColor=e52e71&height=100" />
+  Hi, I'm Stephan <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" alt="Alien Monster" width="40" height="70" />
   <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" alt="Handshake" width="0" height="60"/>
 </h1>
 
