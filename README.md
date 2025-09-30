@@ -26,7 +26,7 @@ const me = {
   languages: ["Python", "TypeScript", "C/CPP", "RISC-V", "SQL"],
   frameworks: ["React", "Next.js", "D3.js", "Express", "Nest.js"],
   databases: ["PostgreSQL", "MongoDB", "Supabase"],
-  blockchain: ["Solana (Anchor)", "Ethereum (Web3.js)", "Stellar"],
+  blockchain: ["Solana (Anchor)", "Ethereum (Web3.js)", "XMR"],
   interests: ["Systems Programming", "Decentralized Finance", "Data Visualization"],
   currentlyLearning: ["Contributing to Monero & CakeWallet open source""],
   goals: ["Grow as an open source contributor"]
