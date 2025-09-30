@@ -40,14 +40,13 @@ const me = {
 
 
   <!-- Streak (consistency) -->
+  <p align="center">
   <a href="https://github.com/StephanVolynets">
     <img height="190"
          src="https://streak-stats.demolab.com?user=StephanVolynets&theme=catppuccin_mocha"
          alt="GitHub Streak"/>
   </a>
-</p>
 
-<p align="center">
   <!-- Top languages (compact) -->
   <a href="https://github.com/StephanVolynets">
     <img height="190"
@@ -56,7 +55,7 @@ const me = {
   </a>
   <!-- Optional trophy wall (fun flex) -->
   <a href="https://github.com/StephanVolynets">
-    <img height="190"
+    <img height="210"
          src="https://github-profile-trophy.vercel.app/?username=StephanVolynets&theme=flat&no-bg=true&no-frame=true&row=2&column=3"
          alt="Trophies"/>
   </a>
