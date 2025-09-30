@@ -1,6 +1,7 @@
 <h1 align="left">
-  Hi, I'm <span style="background: linear-gradient(90deg, #ff8a00, #e52e71); -webkit-background-clip: text; color: transparent;">Stephan!</span> 
-  <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
+  Hi, I'm 
+  <img src="https://img.shields.io/badge/Stephan!-A6192E?style=for-the-badge&logoColor=white&labelColor=e52e71&height=100" />
+  <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" alt="Handshake" width="0" height="60"/>
 </h1>
 
 <img align='right' src="https://media2.giphy.com/media/YG9lBnjgkKsYk3NBHc/giphy.gif?cid=ecf05e471ia3icbz4ukwc5hjt6fo5yfk0la93aiaf7dphwna&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="180">
